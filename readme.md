@@ -229,7 +229,7 @@ Either way click on the reset button to start over.
 
 2. Link to play the game :
 
-Click [here](???) to play the game.
+Click [here](https://optimistic-northcutt-494969.netlify.app) to play the game.
 
 ---
 
