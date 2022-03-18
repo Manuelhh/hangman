@@ -208,6 +208,9 @@ Hangman is a popular word guessing game where the player attempts to build a mis
 1. HTML
 2. CSS
 3. JavaScript
+4. git
+5. gitHub
+6. Netlify
 
 ---
 
